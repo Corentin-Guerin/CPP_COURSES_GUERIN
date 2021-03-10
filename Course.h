@@ -13,15 +13,16 @@ class Course{
 
     public:     
         Course() ;  
-        Course(std::string _Identifiant_Course) ; 
-
+        
         void add_Score() ;
         void calcul_Moyenne() ;
         void affichePseudoMeilleurTemps() ; 
         void afficheScores() ;  
 
+
         std :: string getIdentifiant_Course() ;
         std :: string getPseudo_Joueur() ;
         int getScore_Enregistrer() ;
    
+
 };

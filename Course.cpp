@@ -2,7 +2,6 @@
 #include <string>
 #include <vector>
 #include <cstdlib>
-
 #include "Course.h"
 using namespace std;
 
