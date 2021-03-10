@@ -20,10 +20,8 @@ class Course{
         void affichePseudoMeilleurTemps() ; 
         void afficheScores() ;  
 
-
         std :: string getIdentifiant_Course() ;
         std :: string getPseudo_Joueur() ;
         int getScore_Enregistrer() ;
    
-
 };
