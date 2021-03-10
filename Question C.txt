@@ -1,0 +1,3 @@
+Comment pourrait-on faire pour rejouer les courses d’un championnat de façon indépendante et tout de même enregistrer ses scores ?
+
+On pourrait utiliser un tableau dynamique pour enregistrer les scores tout en rejouant les courses d’un championnat de façon indépendante.
